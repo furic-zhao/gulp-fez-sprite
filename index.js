@@ -430,7 +430,7 @@ var sprite = function(options) {
     })
 
 
-};
+}
 
 module.exports = function(opts) {
     return sprite(opts);
